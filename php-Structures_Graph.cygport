@@ -2,7 +2,7 @@ PHP_CHANNEL=pear
 inherit php
 
 NAME="php-Structures_Graph"
-VERSION=1.1.0
+VERSION=1.1.1
 RELEASE=1
 CATEGORY="PHP"
 SUMMARY="PHP graph datastructure manipulation class"
